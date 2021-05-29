@@ -1,4 +1,5 @@
 # Kuramoto模型在Python和MATLAB中的简单实现  
+![](https://img.shields.io/badge/Spatial__Information__Support__Force__Grouping__Mode__Analysis-Kuramoto-yellow)<br>
 文章主要内容是：  
 * 介绍Kuramoto模型，举例说明实际应用  
 * 分析模型并使用Python进行建模  
